@@ -1,1 +1,38 @@
-[ ]
+[
+  {
+    "name": "(S0) Chords",
+    "file": "samples/Sample 1.mp3",
+    "bpm": "110",
+    "loop": "1m"
+  },
+  {
+    "name": "(S1) Kick",
+    "file": "samples/Sample 2.mp3",
+    "bpm": "110",
+    "loop": "1m"
+  },
+  {
+    "name": "(S2) HighHat",
+    "file": "samples/Sample 3.mp3",
+    "bpm": "110",
+    "loop": "1m"
+  },
+  {
+    "name": "(S3) Clap",
+    "file": "samples/Sample 4.mp3",
+    "bpm": "110",
+    "loop": "1m"
+  },
+  {
+    "name": "(S4) Melody",
+    "file": "samples/Sample 5.mp3",
+    "bpm": "110",
+    "loop": "1m"
+  },
+  {
+    "name": "(S5) Drone",
+    "file": "samples/Sample 6.mp3",
+    "bpm": "110",
+    "loop": "1m"
+  }
+]
