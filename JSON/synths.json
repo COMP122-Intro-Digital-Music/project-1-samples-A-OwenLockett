@@ -1,1 +1,54 @@
-[ ]
+[
+  {
+    "name": "Yummy Retro Synth",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "50",
+      "portamento": "2",
+      "envelope": {
+        "attack": "0.05",
+        "attackCurve": "linear",
+        "decay": "0.58",
+        "decayCurve": "linear",
+        "release": "0.580",
+        "releaseCurve": "linear",
+        "sustain": "0.42"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fattriangle",
+        "count": "3",
+        "spread": "20"
+      }
+    }
+  },
+  {
+    "name": "Crunchy Lead",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "30",
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.03",
+        "attackCurve": "linear",
+        "decay": "1",
+        "decayCurve": "exponential",
+        "release": "1.5",
+        "releaseCurve": "exponential",
+        "sustain": "0.19"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": "3",
+        "spread": "20"
+      }
+    }
+  }
+]
